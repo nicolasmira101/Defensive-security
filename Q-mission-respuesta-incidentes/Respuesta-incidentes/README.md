@@ -32,3 +32,20 @@
 ### Gestión eficaz de incidentes
   - Requiere detección y respuesta rápidas, recuperación bien planificada y análisis post-incidente exhaustivo.
   - Implementación de un protocolo de ciberseguridad y capacitación en análisis forense digital fundamentales para mejorar la resiliencia organizacional.
+
+###  TTP (Tácticas, Técnicas y Procedimientos)
+  - Son los métodos que usan los ciberdelincuentes para atacar.
+  - **Tácticas**: Son los objetivos generales que buscan los ciberdelincuentes, como el reconocimiento, la exfiltración de datos o la interrupción del servicio.
+  - **Técnicas**: Son los métodos específicos que utilizan los ciberdelincuentes para lograr sus tácticas, como el phishing, el malware o el ataque de fuerza bruta.
+  - **Procedimientos**: Son los pasos concretos que siguen los ciberdelincuentes para llevar a cabo una técnica, como la creación de un correo electrónico de phishing o la explotación de una vulnerabilidad.
+
+### Caso de estudio: Ataque WannaCry
+  - Un ataque de ransomware que afectó a más de 200.000 sistemas en 150 países en mayo de 2017.
+  - El ransomware cifraba los archivos de las víctimas y exigía un pago en Bitcoin para descifrarlos.
+  - El ataque causó un gran impacto económico en las empresas y organizaciones afectadas.
+  - El ransomware se propagó a través de una vulnerabilidad conocida en el sistema operativo Windows, llamada **EternalBlue**.
+  - Esta vulnerabilidad fue robada a la Agencia de Seguridad Nacional (NSA) de Estados Unidos y filtrada al público.
+  - El ransomware utilizaba el protocolo SMB para propagarse a través de las redes locales.
+  - Se cree que el grupo cibernético WannaCry, vinculado a Corea del Norte, fue responsable del ataque.
+  - Se estima que el costo total del ataque fue de miles de millones de dólares.
+  - El ataque también generó un gran temor y preocupación por la seguridad cibernética.
