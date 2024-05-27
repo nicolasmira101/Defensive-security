@@ -43,9 +43,19 @@
   - Un ataque de ransomware que afectó a más de 200.000 sistemas en 150 países en mayo de 2017.
   - El ransomware cifraba los archivos de las víctimas y exigía un pago en Bitcoin para descifrarlos.
   - El ataque causó un gran impacto económico en las empresas y organizaciones afectadas.
-  - El ransomware se propagó a través de una vulnerabilidad conocida en el sistema operativo Windows, llamada **EternalBlue**.
+  - El ransomware se propagó a través de una vulnerabilidad conocida en el sistema operativo Windows, llamada EternalBlue.
   - Esta vulnerabilidad fue robada a la Agencia de Seguridad Nacional (NSA) de Estados Unidos y filtrada al público.
   - El ransomware utilizaba el protocolo SMB para propagarse a través de las redes locales.
   - Se cree que el grupo cibernético WannaCry, vinculado a Corea del Norte, fue responsable del ataque.
   - Se estima que el costo total del ataque fue de miles de millones de dólares.
   - El ataque también generó un gran temor y preocupación por la seguridad cibernética.
+
+### Caso de estudio: Ataque Colonial Pipeline
+  - **Víctima**: Colonial Pipeline, la empresa privada que opera el oleoducto más grande de Estados Unidos, transportando el 45% del combustible de la costa este del país.
+  - **Atacantes**: DarkSide, un grupo cibercriminal con sede en Rusia, conocido por realizar ataques de ransomware a grandes empresas.
+  - **Infiltración**: Los atacantes ingresaron a la red de Colonial Pipeline a través de una contraseña robada de un empleado, utilizando la técnica de acceso remoto (RDP).
+  - **Movimiento lateral**: Una vez dentro, se movieron sigilosamente por la red, buscando sistemas críticos.
+  - **Escalada de privilegios**: Obtuvieron privilegios de administrador de dominio, lo que les dio control total sobre los sistemas de TI de Colonial Pipeline.
+  - **Instalación de ransomware**: Implementaron el ransomware Maze para cifrar los datos de la empresa, incluyendo sistemas de control operacional (OT) del oleoducto.
+  - **Demanda de rescate**: Exigieron un pago de 4,4 millones de dólares en Bitcoin a cambio de la clave de descifrado, amenazando con publicar los datos robados y mantener el oleoducto inoperativo.
+  - **Cierre del oleoducto**: Colonial Pipeline se vio obligada a cerrar su sistema de oleoductos principal, lo que provocó: escasez de combustible, aumento de precios y declaración de estado de emergencia. Adicionalmente, daño reputacional y perjuicios económicos.
