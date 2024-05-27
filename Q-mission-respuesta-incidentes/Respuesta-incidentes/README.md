@@ -59,3 +59,9 @@
   - **Instalación de ransomware**: Implementaron el ransomware Maze para cifrar los datos de la empresa, incluyendo sistemas de control operacional (OT) del oleoducto.
   - **Demanda de rescate**: Exigieron un pago de 4,4 millones de dólares en Bitcoin a cambio de la clave de descifrado, amenazando con publicar los datos robados y mantener el oleoducto inoperativo.
   - **Cierre del oleoducto**: Colonial Pipeline se vio obligada a cerrar su sistema de oleoductos principal, lo que provocó: escasez de combustible, aumento de precios y declaración de estado de emergencia. Adicionalmente, daño reputacional y perjuicios económicos.
+
+### Procedimiento de Gestión de Incidentes de Seguridad Digital en Colombia
+
+<p align="center">
+  <img src="https://i.imgur.com/wEN4hZD.png"/>
+</p>
